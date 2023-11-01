@@ -1,1 +1,1 @@
-# odin-project-1
+This is the second odin project, after the Recipe project.
